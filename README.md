@@ -1,2 +1,2 @@
 # test_study
-学习项目
+关于python学习
