@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f6768d9-b9af-4ea4-b563-6637084854c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecto8/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecto8/lect08_v1.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_3.0.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1159">
-              <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+              <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -25,21 +26,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            <state relative-caret-position="855">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="106" column="31" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py">
+        <entry file="file://$PROJECT_DIR$/lecto8/lect08_v1.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
+            <state relative-caret-position="114">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
               <folding>
-                <element signature="e#0#72#1" expanded="true" />
-                <element signature="e#99#1238#0" />
-                <element signature="e#1254#1270#2" expanded="true" />
+                <element signature="e#134#166#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="1501">
               <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
             </state>
           </provider>
@@ -140,10 +148,11 @@
         <option value="$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py" />
         <option value="$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py" />
         <option value="$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py" />
+        <option value="$PROJECT_DIR$/lecto8/lect08_v1.0.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
@@ -159,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,11 +181,15 @@
               <item name="test_study" type="462c0819:PsiDirectoryNode" />
               <item name="lecto7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_study" type="462c0819:PsiDirectoryNode" />
+              <item name="lecto8" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,8 +222,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pwd_strongth_5.0">
-    <configuration name="pwd_strongth_1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.lect08_v1.0">
+    <configuration name="lect08_v1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto7/pwd_strongth_1.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto8/lect08_v1.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lect08_v1.0" />
         <item itemvalue="Python.pwd_strongth_5.0" />
         <item itemvalue="Python.pwd_strongth_4.0" />
         <item itemvalue="Python.pwd_strongth_3.0" />
         <item itemvalue="Python.pwd_strongth_2.0" />
-        <item itemvalue="Python.pwd_strongth_1.0" />
       </list>
     </recent_temporary>
   </component>
@@ -377,19 +391,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.08020478" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.4317406" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5621806" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.54910713" weight="0.32935154" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.54910713" weight="0.609215" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.40784982" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.443686" />
@@ -397,6 +410,46 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新描述" />
@@ -568,15 +621,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1986093431/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_3.0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1159">
-          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="106" column="31" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lecto7/password_5.0.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lecto7/password_3.0.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -609,35 +690,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py">
+    <entry file="file://$PROJECT_DIR$/lecto8/lect08_v1.0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1986093431/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding>
-            <element signature="e#0#72#1" expanded="true" />
-            <element signature="e#99#1238#0" />
-            <element signature="e#1254#1270#2" expanded="true" />
+            <element signature="e#134#166#1" expanded="true" />
           </folding>
         </state>
       </provider>
