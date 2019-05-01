@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f6768d9-b9af-4ea4-b563-6637084854c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lecto7/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecto7/pwd_strongth_1.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecto6/which_time_v4.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecto6/which_time_v4.0.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,76 +14,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lecto6/which_time_v1.0.py">
+        <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="1159">
+              <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lecto6/which_time_v2.0.py">
+        <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="e#0#85#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_1.0.py">
+        <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            <state relative-caret-position="171">
+              <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
               <folding>
-                <element signature="e#0#8#2" expanded="true" />
-                <element signature="e#103#155#2" expanded="true" />
-                <element signature="e#306#368#1" expanded="true" />
-                <element signature="e#81#111#2" expanded="true" />
+                <element signature="e#0#72#1" expanded="true" />
+                <element signature="e#99#1238#0" />
+                <element signature="e#1254#1270#2" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lecto6/which_time_v3.0.py">
+        <entry file="file://$PROJECT_DIR$/lecto7/password_5.0.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-247">
-              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <state relative-caret-position="280">
+              <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lecto6/which_time_v4.0.py">
+        <entry file="file://$PROJECT_DIR$/lecto7/password_3.0.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exchange_rate/exchange_rate5.0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -156,6 +134,12 @@
         <option value="$PROJECT_DIR$/lecto6/which_time_v4.0.py" />
         <option value="$PROJECT_DIR$/lecto6/which_time_v2.0.py" />
         <option value="$PROJECT_DIR$/lecto7/pwd_strongth_1.0.py" />
+        <option value="$PROJECT_DIR$/lecto7/pwd_strongth_2.0.py" />
+        <option value="$PROJECT_DIR$/lecto7/password_3.0.txt" />
+        <option value="$PROJECT_DIR$/lecto7/pwd_strongth_3.0.py" />
+        <option value="$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py" />
+        <option value="$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py" />
+        <option value="$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py" />
       </list>
     </option>
   </component>
@@ -175,7 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,11 +175,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -205,6 +189,7 @@
       <recent name="D:\test_study\money" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test_study\lecto7" />
       <recent name="D:\test_study\lecto6" />
       <recent name="D:\test_study\money" />
       <recent name="D:\test_study\BMR" />
@@ -223,8 +208,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.which_time_v4.0">
-    <configuration name="money_challenge5.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pwd_strongth_5.0">
+    <configuration name="pwd_strongth_1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/money" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/money/money_challenge5.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto7/pwd_strongth_1.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="which_time_v1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pwd_strongth_2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto6/which_time_v1.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto7/pwd_strongth_2.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="which_time_v2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pwd_strongth_3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,11 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto6/which_time_v2.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto7/pwd_strongth_3.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="which_time_v3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pwd_strongth_4.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto6/which_time_v3.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="which_time_v4.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pwd_strongth_5.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,11 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto6/which_time_v4.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,16 +316,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.which_time_v4.0" />
-        <item itemvalue="Python.which_time_v3.0" />
-        <item itemvalue="Python.which_time_v2.0" />
-        <item itemvalue="Python.which_time_v1.0" />
-        <item itemvalue="Python.money_challenge5.0" />
+        <item itemvalue="Python.pwd_strongth_5.0" />
+        <item itemvalue="Python.pwd_strongth_4.0" />
+        <item itemvalue="Python.pwd_strongth_3.0" />
+        <item itemvalue="Python.pwd_strongth_2.0" />
+        <item itemvalue="Python.pwd_strongth_1.0" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -398,16 +383,16 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40784982" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.08020478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5621806" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.54910713" weight="0.32935154" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.45089287" side_tool="true" weight="0.32935154" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5349233" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.40784982" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.443686" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -527,11 +512,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lecto6/which_time_v2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#85#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto6/which_time_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto6/which_time_v4.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -541,6 +550,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/password_4.0.txt" />
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/password_5.0.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/password_3.0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -568,39 +609,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lecto6/which_time_v3.0.py">
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_5.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="114">
+          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lecto6/which_time_v4.0.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1986093431/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="186">
+          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lecto6/which_time_v2.0.py">
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_4.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="280">
+          <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_6.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
           <folding>
-            <element signature="e#0#85#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#8#2" expanded="true" />
-            <element signature="e#103#155#2" expanded="true" />
-            <element signature="e#306#368#1" expanded="true" />
-            <element signature="e#81#111#2" expanded="true" />
+            <element signature="e#0#72#1" expanded="true" />
+            <element signature="e#99#1238#0" />
+            <element signature="e#1254#1270#2" expanded="true" />
           </folding>
         </state>
       </provider>
