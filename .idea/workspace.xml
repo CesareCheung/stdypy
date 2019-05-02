@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f6768d9-b9af-4ea4-b563-6637084854c3" name="Default Changelist" comment="更新which_time_v4.0,字典">
-      <change afterPath="$PROJECT_DIR$/aqi_v1/__init__.py" afterDir="false" />
+    <list default="true" id="5f6768d9-b9af-4ea4-b563-6637084854c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lecto09/aqi_v1.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecto8/lect08_v2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecto8/lect08_v2.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqi_v1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecto09/__init__.py" afterDir="false" />
     </list>
     <ignored path="D:\stdypy\.idea\shelf/" />
     <ignored path="D:\Project\stdypy\.idea\shelf/" />
@@ -52,11 +52,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto8/loct08_v4.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="85">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lecto09/aqi_v1.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#44#2" expanded="true" />
+                <element signature="e#101#153#1" expanded="true" />
+                <element signature="e#205#257#1" expanded="true" />
+                <element signature="e#89#119#2" expanded="true" />
+                <element signature="e#87#117#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,6 +166,7 @@
         <option value="$PROJECT_DIR$/lecto8/loct08_v4.0.py" />
         <option value="$PROJECT_DIR$/lecto8/loct08_v5.0.py" />
         <option value="$PROJECT_DIR$/lecto8/lect08_v2.0.py" />
+        <option value="$PROJECT_DIR$/lecto09/aqi_v1.0.py" />
       </list>
     </option>
   </component>
@@ -179,7 +196,7 @@
             <path>
               <item name="stdypy" type="b2602c69:ProjectViewProjectNode" />
               <item name="stdypy" type="462c0819:PsiDirectoryNode" />
-              <item name="aqi_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="lecto09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,12 +361,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553408569519</updated>
     </task>
-    <task id="LOCAL-00001" summary="更新描述">
-      <created>1555859988062</created>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1556812986280</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1555859988063</updated>
+      <updated>1556812986280</updated>
     </task>
     <task id="LOCAL-00002" summary="更新描述">
       <created>1555860135763</created>
@@ -379,12 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556728298351</updated>
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -394,7 +413,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.5483631" visible="true" weight="0.4778157" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.5483631" visible="true" weight="0.20819113" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4516369" side_tool="true" weight="0.6984668" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49925596" weight="0.443686" />
@@ -442,6 +461,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lecto8/lect08_v1.0.py">
@@ -515,10 +538,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aqi_v1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lecto8/loct08_v4.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="85">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto09/aqi_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#44#2" expanded="true" />
+            <element signature="e#101#153#1" expanded="true" />
+            <element signature="e#205#257#1" expanded="true" />
+            <element signature="e#89#119#2" expanded="true" />
+            <element signature="e#87#117#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
