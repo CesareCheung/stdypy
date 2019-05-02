@@ -31,9 +31,20 @@ def main():
     roll1_arr = numpy.random.randint(1, 7, size=totime)
     roll2_arr = numpy.random.randint(1, 7, size=totime)
     result_list = roll1_arr + roll2_arr
+    hist,bins=numpy.histogram(result_list,bins=range(2,14))
+    print(hist)
+    print(bins)
 
     # 数据可视化
-    pyplot.hist(result_list, range(2, 14), density=1, edgecolor='black', linewidth=1)
+    pyplot.hist(result_list, range(2, 14), density=1, edgecolor='black', linewidth=1,rwidth=0.8)
+
+    # 设置X坐标点显示
+    tick_lables=['2点','3点','4点','5点',
+                '6点','7点','8点','9点',
+                 '10点','11点','12点']
+    tick_ops=numpy.arange(2,13)+0.5
+    pyplot.xticks(tick_ops,tick_lables)
+
     pyplot.title("骰子点数统计")
     pyplot.xlabel('点数')
     pyplot.ylabel('频率')
