@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto8/lect08_v1.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="266">
               <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding>
                 <element signature="e#134#166#1" expanded="true" />
@@ -25,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto8/lect08_v2.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="342">
               <caret line="25" column="27" selection-end-line="40" selection-end-column="10" />
             </state>
           </provider>
@@ -34,10 +34,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto8/loct08_v3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="874">
               <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
-                <element signature="e#43#81#1" expanded="true" />
                 <element signature="e#58#87#0" expanded="true" />
               </folding>
             </state>
@@ -47,12 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lecto8/loct08_v4.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-              <folding>
-                <element signature="e#1#55#1" expanded="true" />
-                <element signature="e#58#87#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -60,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/python37/Lib/site-packages/matplotlib/pyplot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
+            <state relative-caret-position="23541">
               <caret line="2650" column="38" selection-start-line="2650" selection-start-column="32" selection-end-line="2650" selection-end-column="38" />
             </state>
           </provider>
@@ -69,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_2.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="171">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="e#0#62#1" expanded="true" />
@@ -179,12 +174,7 @@
           <expand>
             <path>
               <item name="pysty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pysty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_study" type="462c0819:PsiDirectoryNode" />
-              <item name="lecto8" type="462c0819:PsiDirectoryNode" />
+              <item name="stdypy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,9 +378,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -402,7 +391,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.54910713" weight="0.609215" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.40784982" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" visible="true" weight="0.40784982" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.443686" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -448,5 +437,82 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lecto8/lect08_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="e#134#166#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto8/lect08_v2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="27" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto8/loct08_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#58#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python37/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23541">
+          <caret line="2650" column="38" selection-start-line="2650" selection-start-column="32" selection-end-line="2650" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto7/pwd_strongth_2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#62#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllib_demo/urllib2_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exchange_rate/exchange_rate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto8/loct08_v4.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
