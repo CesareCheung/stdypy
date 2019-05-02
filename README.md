@@ -1,2 +1,1 @@
-# test_study
-关于python学习
+Python 数据可视化
