@@ -48,21 +48,6 @@ def main():
     else:
         print('暂不支持该文件格式')
 
-    #
-    # city_list = process_json_file(filepath)
-    # city_list.sort(key=lambda city: city['aqi'])
-    #
-    # # 列名
-    # lines = []
-    # lines.append(list(city_list[0].keys()))
-    #
-    # for city in city_list:
-    #     lines.append(list(city.values()))
-    #
-    # with open('aqi.csv', 'w', encoding='utf-8', newline='') as f:
-    #     writer = csv.writer(f)
-    #     for line in lines:
-    #         writer.writerow(line)
 
 
 if __name__ == '__main__':
