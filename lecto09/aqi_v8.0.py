@@ -53,7 +53,7 @@ def main():
     city_list=get_all_citys()
 
     #     print(city_name,city_aqi)
-    header=['City','AQI','PM2.5/1h','CO/1h','NO/1h','O3/1h','O3/8h','SO2/1h']
+    header=['City', 'AQI', 'PM2.5/1h', 'PM10/h', 'CO/1h', 'NO2/1h', 'O3/1h', 'O3/8h', 'SO2/1h']
     with open('china_city_aqi.csv','w',encoding='utf-8',newline='') as f:
         writer=csv.writer(f)
         writer.writerow(header)

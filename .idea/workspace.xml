@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f6768d9-b9af-4ea4-b563-6637084854c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lecto09/aqi_v8.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecto09/aqi_v9.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecto09/china_city_aqi.csv" beforeDir="false" />
     </list>
     <ignored path="D:\stdypy\.idea\shelf/" />
     <ignored path="D:\Project\stdypy\.idea\shelf/" />
@@ -15,32 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lecto09/aqi_v6.0.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lecto09/aqi_v9.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lecto09/aqi_v7.0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="58" selection-start-line="57" selection-end-line="58" />
+            <state relative-caret-position="363">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
-                <element signature="e#73#83#0" expanded="true" />
+                <element signature="e#1128#1160#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto09/aqi_v8.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="64" column="48" lean-forward="true" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
+            <state relative-caret-position="233">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#0#72#1" expanded="true" />
                 <element signature="e#73#83#0" expanded="true" />
@@ -50,11 +42,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lecto09/china_city_aqi.csv">
+        <entry file="file://$PROJECT_DIR$/lecto09/bottom10_cities.csv">
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lecto09/top10_cites.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -169,6 +177,7 @@
         <option value="$PROJECT_DIR$/lecto09/aqi_v5.0.py" />
         <option value="$PROJECT_DIR$/lecto09/aqi_v6.0.py" />
         <option value="$PROJECT_DIR$/lecto09/aqi_v7.0.py" />
+        <option value="$PROJECT_DIR$/lecto09/aqi_v9.0.py" />
         <option value="$PROJECT_DIR$/lecto09/aqi_v8.0.py" />
       </list>
     </option>
@@ -219,16 +228,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\test_study\turtle_demo" />
-      <recent name="D:\test_study\exchange_rate" />
-      <recent name="D:\test_study\money" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\stdypy\lecto09" />
       <recent name="D:\test_study\lecto8" />
       <recent name="D:\test_study\lecto7" />
       <recent name="D:\test_study\lecto6" />
+      <recent name="D:\test_study\money" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test_study\turtle_demo" />
+      <recent name="D:\test_study\exchange_rate" />
       <recent name="D:\test_study\money" />
     </key>
   </component>
@@ -245,27 +254,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.aqi_v8.0">
-    <configuration name="aqi_v4.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="stdypy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto09/aqi_v4.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="aqi_v5.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stdypy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -350,13 +338,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aqi_v9.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stdypy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecto09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecto09/aqi_v9.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.aqi_v8.0" />
+        <item itemvalue="Python.aqi_v9.0" />
         <item itemvalue="Python.aqi_v7.0" />
         <item itemvalue="Python.aqi_v6.0" />
         <item itemvalue="Python.aqi_v5.0" />
-        <item itemvalue="Python.aqi_v4.0" />
       </list>
     </recent_temporary>
   </component>
@@ -417,15 +426,15 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52380955" weight="0.4778157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.52380955" visible="true" weight="0.38737202" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5341297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.54761904" weight="0.19283277" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.54761904" weight="0.4010239" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32879046" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.47619048" side_tool="true" weight="0.40614334" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.49925596" visible="true" weight="0.443686" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49925596" weight="0.2901024" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -664,19 +673,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lecto09/bottom10_cities">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lecto09/china_city_aqi.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/lecto09/top10_cites.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto09/bottom10_cities.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lecto09/aqi_v8.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="64" column="48" lean-forward="true" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
+        <state relative-caret-position="233">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#0#72#1" expanded="true" />
             <element signature="e#73#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecto09/aqi_v9.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#1128#1160#1" expanded="true" />
           </folding>
         </state>
       </provider>
