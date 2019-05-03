@@ -6,13 +6,38 @@
 """
 
 
+def cal_linear(iaqi_lo, iaqi_hi, bp_lo, bp_hi, cp):
+    """
+    缩放范围
+    :param iaqi_lo:
+    :param iaqi_hi:
+    :param bp_lo:
+    :param bp_hi:
+    :param cp:
+    :return:
+    """
+    iaqi = (iaqi_hi - iaqi_lo) * (cp - bp_lo) / (bp_hi - bp_lo) + iaqi_lo
+
+    return iaqi
+
+
 def cal_pm_aqi(pm_value):
     '''
     计算PM2.5的AQI
     :param pm_value:
     :return:
     '''
-    pass
+    if 0 <= pm_value < 36:
+        iaqi = cal_linear(0, 50, 0, 35, pm_value)
+
+    elif 36 <= pm_value < 76:
+        iaqi = cal_linear(50, 100, 35, 75, pm_value)
+
+    elif 76 <= pm_value < 116:
+        iaqi = cal_linear(100, 150, 75, 115, pm_value)
+
+    else:
+        pass
 
 
 def cal_co_aqi(co_value):
@@ -21,7 +46,14 @@ def cal_co_aqi(co_value):
     :param co_value:
     :return:
     '''
-    pass
+    if 0 <= co_value < 3:
+        iaqi = cal_linear(0, 50, 0, 3, co_value)
+
+    elif 3 <= co_value < 5:
+        iaqi = cal_linear(50, 100, 2, 4, co_value)
+
+    else:
+        pass
 
 
 def cal_aqi(params_list):
