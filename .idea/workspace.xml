@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f6768d9-b9af-4ea4-b563-6637084854c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lecto09/aqi.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecto09/aqi_v3.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecto09/aqi.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecto09/aqi_v3.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecto09/aqi_v3.0.py" afterDir="false" />
     </list>
     <ignored path="D:\stdypy\.idea\shelf/" />
     <ignored path="D:\Project\stdypy\.idea\shelf/" />
@@ -46,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lecto09/aqi_v3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+            <state relative-caret-position="175">
+              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding>
                 <element signature="e#69#80#0" expanded="true" />
               </folding>
@@ -584,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lecto09/aqi_v3.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        <state relative-caret-position="175">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
           <folding>
             <element signature="e#69#80#0" expanded="true" />
           </folding>

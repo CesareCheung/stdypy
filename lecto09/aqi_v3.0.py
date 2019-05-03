@@ -39,7 +39,7 @@ def main():
         for line in lines:
             writer.writerow(line)
 
-    f.close()
+
 
 if __name__ == '__main__':
     main()
